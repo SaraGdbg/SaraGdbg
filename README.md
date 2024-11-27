@@ -1,9 +1,11 @@
-## Hej! Here I am 
-- 👋 Hi, I’m @SaraGdbg
-- 🌍 Avesta / Dalarna / Sweden 
+## Hej!  
+- 👋 Det är jag som är Sara
+- 🌍 Avesta / Dalarna / Sweden -> Relocating to Halmstad / Halland / Sweden in the summer of '25
 - 👀 I’m interested in photography and enjoy good design
 - 🌱 I’m currently learning all about front end development at Medieinstitutet. So excited about that!
-- 💞️ I’m looking for internship placements 2024 ⭐
+- 💬 Ask me about photography and knitting
+- 💞️ I’m looking for internship placements 2025 ⭐
+- 🟰 Important to me: equality, accessability and UX
 - 📫 Send me a message or email to get in touch!
 
 <!---

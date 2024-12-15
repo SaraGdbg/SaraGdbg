@@ -1,5 +1,5 @@
 ## Hej!  
-- 👋 Det är jag som är Sara
+- 👋 I'm Sara
 - 🌍 Avesta / Dalarna / Sweden -> Relocating to Halmstad / Halland / Sweden in the summer of '25
 - 👀 I’m interested in photography and enjoy good design
 - 🌱 I’m currently learning all about front end development at Medieinstitutet. So excited about that!

@@ -1,8 +1,8 @@
 ## Hej!  
 - 👋 I'm Sara
-- 🌍 Avesta / Dalarna / Sweden -> Relocating to Halmstad / Halland / Sweden in the summer of '25
-- 👀 I’m interested in photography and enjoy good design
-- 🌱 I’m currently learning all about front end development at Medieinstitutet. So excited about that!
+- 🌍 Halmstad, Sweden
+- 👀 I’m interested in photography and enjoy design, renovation TV and flea markets
+- 🌱 I recently graduated from Medieinstitutet, the Front End Developer Program
 - 💬 Ask me about photography and knitting
 - 🟰 Important to me: equality, accessability and UX
 - 📫 Send me a message or email to get in touch!
